@@ -1,0 +1,34 @@
+Pandas:
+    - Most useful functions
+    - pandas Datatypes
+    - Importing & exporting data
+    - Descibing data
+    - Viewing & selecting data
+    - Manipulating data
+
+NumPy:
+    - Most useful functions
+    - NumPy datatypes and attributes
+    - Creating arrays
+    - Viewing arrays and matrices
+    - Manipulating & comparing  arrays
+    - Sorting arrays
+    - Use cases
+
+Matplotlib:
+    - Matplotlib workflow
+    - Importing Matplotlib and the 2 ways of plotting
+    - Plotting data from NumPy arrays
+    - Plotting data from pandas DataFrames
+    - Customizing plots
+    - Saving and sharing plots
+
+Scikit-Learn:
+    - An end-to-end Scikit-Learn workflow
+    - Getting the data ready
+    - Choose the right estimater/algorithm for our problem
+    - Fit the model and use it to make predictions on our data
+    - Evaluating a model
+    - Improve a model
+    - Save and load a trained model
+    - Putting it all together
